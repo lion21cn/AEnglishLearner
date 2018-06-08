@@ -29,7 +29,8 @@ in-表示静态状况
 * **In other words**, E is the lower part of - A .  
 换句话说, E是 -A 的下面部分.
 ***
-###　in a word
+### in a word
+
 * 一句话，总之
 *  In a word, this government isn't fit to rule.  
 简言之，这届政府无法胜任治国之责。
