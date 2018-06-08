@@ -65,4 +65,4 @@ echo;
 echo 批处理执行完毕！
 echo;
 
-pause
+#pause
