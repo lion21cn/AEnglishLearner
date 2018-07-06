@@ -20,5 +20,7 @@ B05-be+过去分词+to
 * Population density can be expected to be related to wastewater treatment costs in several ways.  
 人口密度从多方面影响到废水处理费用.
 *** 
-
-
+### be disappointed to
+* 对什么失望
+* Meary was disappointed to learn that he was not coming. 玛丽得知他不来感到失望。
+***
