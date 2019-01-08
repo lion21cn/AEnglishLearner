@@ -44,3 +44,8 @@ in-表示静态状况
 * In the end, we all decided to organize a concert for Easter.  
 最终，我们一致决定组织一场复活节音乐会。
 ***
+### in direct proportion to
+* 与什么成正比
+* The number of times I succeed is in direct proportion to the number of times i fail and keep trying.
+* 我成功的记录与我屡败屡战的记录成正比.
+***
